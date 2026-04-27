@@ -58,6 +58,12 @@ This CNN-based plant disease detection model can be integrated into:
 By automating disease detection, this tool helps reduce crop loss, improve productivity, and empower farmers with modern AI-driven solutions.
 
 ---
+**Last Updated:** April 2026  
+**Recent Changes:**
+- Improved documentation
+- Minor fixes and cleanup
+
+---
 
 ## 📌 Technologies Used
 
